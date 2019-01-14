@@ -1,0 +1,29 @@
+{
+    "type": "extension",
+    "id": "com.hooks.test",
+    "version": "1",
+    "revision": 3,
+    "compatibility": "",
+    "title": "Hooks Test",
+    "description": "",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "licenses": null,
+    "components": {
+        "module_groups": [],
+        "modules": [],
+        "templates": [],
+        "callouts": [],
+        "settings": [],
+        "feeds": [],
+        "field_types": [],
+        "tables": []
+    },
+    "sql_revisions": []
+}
